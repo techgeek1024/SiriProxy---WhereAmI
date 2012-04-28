@@ -1,3 +1,7 @@
 Reponds to "Where Am I" with a map & the current street they are on, using the Google Maps API.
 
 Works with Three-Little-Pigs-Siri-Proxy.
+
+Add this to your config file:
+    - name: 'WhereAmI'
+      git: 'git://github.com/Swimo/SiriProxy---WhereAmI.git'
